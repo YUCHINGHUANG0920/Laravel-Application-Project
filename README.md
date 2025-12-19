@@ -36,8 +36,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd sample-project
+git clone <this-repo-url>
 ```
 
 ### 2. Install PHP dependencies
